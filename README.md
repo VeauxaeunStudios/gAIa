@@ -1,2 +1,2 @@
 # gAIa
-Our own version of ChatGPT.
+Our own attempt at a LLM.
